@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<div>
+<div align="center">
 <img src='https://www.codewars.com/users/BLVCK7/badges/small' />
 </div>
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
-  Client:
+  ### Client:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -15,18 +17,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;             
   </div>
   
-  Server:
+  ### Server:
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" alt="nodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;     
   </div>
   
-   IDE:
+  ### IDE:
    <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" title="webstorm" alt="webstorm" width="40" height="40"/>&nbsp;
   </div>
+  
+ ---
+ 
+ ### :fire: Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BLVCK7&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **BLVCK7/BLVCK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,8 @@
 <img src='https://www.codewars.com/users/BLVCK7/badges/small' />
 </div>
 
+:js:
+
 <!--
 **BLVCK7/BLVCK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

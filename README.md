@@ -20,10 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="90" height="90"/>&nbsp;     
   </div>
   
-  ### IDE:
-   <div>
+  ### Other:
+  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="90" height="90"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" title="webstorm" alt="webstorm" width="90" height="90"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" alt="git" width="90" height="90"/>&nbsp;
   </div>
   
  ---

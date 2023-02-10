@@ -24,9 +24,10 @@
   
   ### Other:
   <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" title="lua" alt="lua" width="90" height="90"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" alt="git" width="90" height="90"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="90" height="90"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" title="webstorm" alt="webstorm" width="90" height="90"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" alt="git" width="90" height="90"/>&nbsp;
   </div>
   
  ---

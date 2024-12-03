@@ -11,12 +11,10 @@
   
   ### Other:
   <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" title="lua" alt="lua" width="90" height="90"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg" title="lua" alt="lua" width="90" height="90"/>&nbsp;
   </div>
   
- ---
- 
- ### :fire:
+  :fire:
 
 <!--
 **BLVCK7/BLVCK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
